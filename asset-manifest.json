@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/my-music-tracker/static/css/main.d1a84aa2.css",
+    "main.js": "/my-music-tracker/static/js/main.640aa26a.js",
+    "static/js/453.8dccd501.chunk.js": "/my-music-tracker/static/js/453.8dccd501.chunk.js",
+    "index.html": "/my-music-tracker/index.html",
+    "main.d1a84aa2.css.map": "/my-music-tracker/static/css/main.d1a84aa2.css.map",
+    "main.640aa26a.js.map": "/my-music-tracker/static/js/main.640aa26a.js.map",
+    "453.8dccd501.chunk.js.map": "/my-music-tracker/static/js/453.8dccd501.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1a84aa2.css",
+    "static/js/main.640aa26a.js"
+  ]
+}
